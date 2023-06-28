@@ -1,19 +1,15 @@
 <template>
-  <div class="home">
+  <div>
 
   </div>
 </template>
 
 <script>
-
-
   export default {
-    components:{
-      
-    }
+    
   }
 </script>
 
-<style scoped>
+<style  scoped>
 
 </style>
